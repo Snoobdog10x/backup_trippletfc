@@ -26,7 +26,7 @@ define( 'DB_NAME', 'trippletfc' );
 define( 'DB_USER', 'root' );
 
 /** Database password */
-define( 'DB_PASSWORD', '' );
+define( 'DB_PASSWORD', 'thanhanh' );
 
 /** Database hostname */
 define( 'DB_HOST', 'localhost' );
