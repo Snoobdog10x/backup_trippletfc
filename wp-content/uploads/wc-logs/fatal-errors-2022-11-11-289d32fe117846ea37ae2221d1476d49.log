@@ -1,0 +1,36 @@
+2022-11-11T04:54:39+00:00 CRITICAL Uncaught Error: Call to a member function get_data() on bool in /var/www/html/trippletfc/wp-content/plugins/qh-testpay/qh-testpay.php:163
+Stack trace:
+#0 /var/www/html/trippletfc/wp-includes/class-wp-hook.php(308): QHPayPayment->fetch_order_status()
+#1 /var/www/html/trippletfc/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#2 /var/www/html/trippletfc/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /var/www/html/trippletfc/wp-admin/admin-ajax.php(188): do_action()
+#4 {main}
+  thrown in /var/www/html/trippletfc/wp-content/plugins/qh-testpay/qh-testpay.php on line 163
+
+2022-11-11T04:54:41+00:00 CRITICAL Uncaught Error: Call to a member function get_data() on bool in /var/www/html/trippletfc/wp-content/plugins/qh-testpay/qh-testpay.php:163
+Stack trace:
+#0 /var/www/html/trippletfc/wp-includes/class-wp-hook.php(308): QHPayPayment->fetch_order_status()
+#1 /var/www/html/trippletfc/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#2 /var/www/html/trippletfc/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /var/www/html/trippletfc/wp-admin/admin-ajax.php(188): do_action()
+#4 {main}
+  thrown in /var/www/html/trippletfc/wp-content/plugins/qh-testpay/qh-testpay.php on line 163
+
+2022-11-11T04:54:45+00:00 CRITICAL Uncaught Error: Call to a member function get_data() on bool in /var/www/html/trippletfc/wp-content/plugins/qh-testpay/qh-testpay.php:163
+Stack trace:
+#0 /var/www/html/trippletfc/wp-includes/class-wp-hook.php(308): QHPayPayment->fetch_order_status()
+#1 /var/www/html/trippletfc/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#2 /var/www/html/trippletfc/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /var/www/html/trippletfc/wp-admin/admin-ajax.php(188): do_action()
+#4 {main}
+  thrown in /var/www/html/trippletfc/wp-content/plugins/qh-testpay/qh-testpay.php on line 163
+
+2022-11-11T04:54:47+00:00 CRITICAL Uncaught Error: Call to a member function get_data() on bool in /var/www/html/trippletfc/wp-content/plugins/qh-testpay/qh-testpay.php:163
+Stack trace:
+#0 /var/www/html/trippletfc/wp-includes/class-wp-hook.php(308): QHPayPayment->fetch_order_status()
+#1 /var/www/html/trippletfc/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#2 /var/www/html/trippletfc/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /var/www/html/trippletfc/wp-admin/admin-ajax.php(188): do_action()
+#4 {main}
+  thrown in /var/www/html/trippletfc/wp-content/plugins/qh-testpay/qh-testpay.php on line 163
+
