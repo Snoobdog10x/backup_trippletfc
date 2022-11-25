@@ -35,7 +35,7 @@ if ( $max_value && $min_value === $max_value ) {
 			id="<?php echo esc_attr( $input_id ); ?>"
 			class="<?php echo esc_attr( join( ' ', (array) $classes ) ); ?>"
 			step="<?php echo esc_attr( $step ); ?>"
-			min="<?php echo esc_attr( $min_value ); ?>"
+			min="<?php echo esc_attr( 1 ); ?>"
 			max="<?php echo esc_attr( 0 < $max_value ? $max_value : '' ); ?>"
 			name="<?php echo esc_attr( $input_name ); ?>"
 			value="<?php echo esc_attr( $input_value ); ?>"
@@ -44,6 +44,7 @@ if ( $max_value && $min_value === $max_value ) {
 			placeholder="<?php echo esc_attr( $placeholder ); ?>"
 			inputmode="<?php echo esc_attr( $inputmode ); ?>"
 			autocomplete="<?php echo esc_attr( isset( $autocomplete ) ? $autocomplete : 'on' ); ?>"
+			onkeypress="return false"
 		/>
 		<?php do_action( 'woocommerce_after_quantity_input_field' ); ?>
 	</div>

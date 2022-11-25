@@ -324,7 +324,7 @@ class QHPay_Admin_Page
 	{
 		$wooDefaultStatuses = array(
 			"wc-pending",
-			"wc-processing",
+			// "wc-processing",
 			"wc-on-hold",
 			// "wc-completed",
 			"wc-cancelled",

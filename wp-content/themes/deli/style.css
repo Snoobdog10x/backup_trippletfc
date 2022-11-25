@@ -891,3 +891,6 @@ body:not(.page-template-template-homepage) .site-main {
   font-family: 'Font Awesome 5 Free';
   font-weight: 900;
   content: "\f15c" !important; }
+nav.navbar form.form-inline {
+    display: none !important;
+}

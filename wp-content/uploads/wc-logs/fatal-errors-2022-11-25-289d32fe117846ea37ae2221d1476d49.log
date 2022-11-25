@@ -1,0 +1,110 @@
+2022-11-25T06:58:53+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "online_food_delivery_customize_partial_blogdescription" not found or invalid function name in C:\xampp\htdocs\trippletfc\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\xampp\htdocs\trippletfc\wp-includes\customize\class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render(Array)
+#1 C:\xampp\htdocs\trippletfc\wp-includes\class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\xampp\htdocs\trippletfc\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\trippletfc\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\trippletfc\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\xampp\htdocs\trippletfc\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\trippletfc\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\trippletfc\wp-includes\customize\class-wp-customize-partial.php on line 222
+
+2022-11-25T06:58:57+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "online_food_delivery_customize_partial_blogname" not found or invalid function name in C:\xampp\htdocs\trippletfc\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\xampp\htdocs\trippletfc\wp-includes\customize\class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render(Array)
+#1 C:\xampp\htdocs\trippletfc\wp-includes\class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\xampp\htdocs\trippletfc\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\trippletfc\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\trippletfc\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\xampp\htdocs\trippletfc\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\trippletfc\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\trippletfc\wp-includes\customize\class-wp-customize-partial.php on line 222
+
+2022-11-25T07:02:30+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "online_food_delivery_customize_partial_blogname" not found or invalid function name in C:\xampp\htdocs\trippletfc\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\xampp\htdocs\trippletfc\wp-includes\customize\class-wp-customize-selective-refresh.php(369): WP_Customize_Partial->render(NULL)
+#1 C:\xampp\htdocs\trippletfc\wp-includes\class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\xampp\htdocs\trippletfc\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\trippletfc\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\trippletfc\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\xampp\htdocs\trippletfc\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\trippletfc\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\trippletfc\wp-includes\customize\class-wp-customize-partial.php on line 222
+
+2022-11-25T07:02:30+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "online_food_delivery_customize_partial_blogname" not found or invalid function name in C:\xampp\htdocs\trippletfc\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\xampp\htdocs\trippletfc\wp-includes\customize\class-wp-customize-selective-refresh.php(369): WP_Customize_Partial->render(NULL)
+#1 C:\xampp\htdocs\trippletfc\wp-includes\class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\xampp\htdocs\trippletfc\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\trippletfc\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\trippletfc\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\xampp\htdocs\trippletfc\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\trippletfc\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\trippletfc\wp-includes\customize\class-wp-customize-partial.php on line 222
+
+2022-11-25T07:02:38+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "online_food_delivery_customize_partial_blogname" not found or invalid function name in C:\xampp\htdocs\trippletfc\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\xampp\htdocs\trippletfc\wp-includes\customize\class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render(Array)
+#1 C:\xampp\htdocs\trippletfc\wp-includes\class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\xampp\htdocs\trippletfc\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\trippletfc\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\trippletfc\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\xampp\htdocs\trippletfc\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\trippletfc\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\trippletfc\wp-includes\customize\class-wp-customize-partial.php on line 222
+
+2022-11-25T10:37:03+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function prevent_order_status_change(), 1 passed in C:\xampp\htdocs\trippletfc\wp-includes\class-wp-hook.php on line 310 and exactly 2 expected in C:\xampp\htdocs\trippletfc\wp-content\themes\online-food-delivery\functions.php:493
+Stack trace:
+#0 C:\xampp\htdocs\trippletfc\wp-includes\class-wp-hook.php(310): prevent_order_status_change(Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#1 C:\xampp\htdocs\trippletfc\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\trippletfc\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\trippletfc\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-order.php(196): do_action('woocommerce_bef...', Object(Automattic\WooCommerce\Admin\Overrides\Order), Object(WC_Data_Store))
+#4 C:\xampp\htdocs\trippletfc\wp-content\plugins\woocommerce\includes\class-wc-order.php(244): WC_Abstract_Order->save()
+#5 C:\xampp\htdocs\trippletfc\wp-content\plugins\woocommerce\includes\class-wc-order.php(357): WC_Order->save()
+#6 C:\xampp\htdocs\trippletfc\wp-content\plugins\woocommerce\includes\class-wc-ajax.php(546): WC_Order->update_status('completed', '', true)
+#7 C:\xampp\htdocs\trippletfc\wp-includes\class-wp-hook.php(308): WC_AJAX::mark_order_status('')
+#8 C:\xampp\htdocs\trippletfc\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#9 C:\xampp\htdocs\trippletfc\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#10 C:\xampp\htdocs\trippletfc\wp-admin\admin-ajax.php(188): do_action('wp_ajax_woocomm...')
+#11 {main}
+  thrown in C:\xampp\htdocs\trippletfc\wp-content\themes\online-food-delivery\functions.php on line 493
+
+2022-11-25T10:37:07+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function prevent_order_status_change(), 1 passed in C:\xampp\htdocs\trippletfc\wp-includes\class-wp-hook.php on line 310 and exactly 2 expected in C:\xampp\htdocs\trippletfc\wp-content\themes\online-food-delivery\functions.php:493
+Stack trace:
+#0 C:\xampp\htdocs\trippletfc\wp-includes\class-wp-hook.php(310): prevent_order_status_change(Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#1 C:\xampp\htdocs\trippletfc\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\trippletfc\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\trippletfc\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-order.php(196): do_action('woocommerce_bef...', Object(Automattic\WooCommerce\Admin\Overrides\Order), Object(WC_Data_Store))
+#4 C:\xampp\htdocs\trippletfc\wp-content\plugins\woocommerce\includes\class-wc-order.php(244): WC_Abstract_Order->save()
+#5 C:\xampp\htdocs\trippletfc\wp-content\plugins\woocommerce\includes\class-wc-order.php(357): WC_Order->save()
+#6 C:\xampp\htdocs\trippletfc\wp-content\plugins\woocommerce\includes\class-wc-ajax.php(546): WC_Order->update_status('completed', '', true)
+#7 C:\xampp\htdocs\trippletfc\wp-includes\class-wp-hook.php(308): WC_AJAX::mark_order_status('')
+#8 C:\xampp\htdocs\trippletfc\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#9 C:\xampp\htdocs\trippletfc\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#10 C:\xampp\htdocs\trippletfc\wp-admin\admin-ajax.php(188): do_action('wp_ajax_woocomm...')
+#11 {main}
+  thrown in C:\xampp\htdocs\trippletfc\wp-content\themes\online-food-delivery\functions.php on line 493
+
+2022-11-25T10:37:11+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function prevent_order_status_change(), 1 passed in C:\xampp\htdocs\trippletfc\wp-includes\class-wp-hook.php on line 310 and exactly 2 expected in C:\xampp\htdocs\trippletfc\wp-content\themes\online-food-delivery\functions.php:493
+Stack trace:
+#0 C:\xampp\htdocs\trippletfc\wp-includes\class-wp-hook.php(310): prevent_order_status_change(Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#1 C:\xampp\htdocs\trippletfc\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\trippletfc\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\trippletfc\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-order.php(196): do_action('woocommerce_bef...', Object(Automattic\WooCommerce\Admin\Overrides\Order), Object(WC_Data_Store))
+#4 C:\xampp\htdocs\trippletfc\wp-content\plugins\woocommerce\includes\class-wc-order.php(244): WC_Abstract_Order->save()
+#5 C:\xampp\htdocs\trippletfc\wp-content\plugins\woocommerce\includes\class-wc-order.php(357): WC_Order->save()
+#6 C:\xampp\htdocs\trippletfc\wp-content\plugins\woocommerce\includes\class-wc-ajax.php(546): WC_Order->update_status('completed', '', true)
+#7 C:\xampp\htdocs\trippletfc\wp-includes\class-wp-hook.php(308): WC_AJAX::mark_order_status('')
+#8 C:\xampp\htdocs\trippletfc\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#9 C:\xampp\htdocs\trippletfc\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#10 C:\xampp\htdocs\trippletfc\wp-admin\admin-ajax.php(188): do_action('wp_ajax_woocomm...')
+#11 {main}
+  thrown in C:\xampp\htdocs\trippletfc\wp-content\themes\online-food-delivery\functions.php on line 493
+
+2022-11-25T11:59:20+00:00 CRITICAL syntax error, unexpected token ")" in C:\xampp\htdocs\trippletfc\wp-content\themes\online-food-delivery\functions.php on line 507
+
