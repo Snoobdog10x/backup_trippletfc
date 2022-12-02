@@ -62,7 +62,6 @@ class WP_Error {
 		if ( empty( $code ) ) {
 			return;
 		}
-
 		$this->add( $code, $message, $data );
 	}
 
